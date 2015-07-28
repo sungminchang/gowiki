@@ -1,0 +1,9 @@
+Hello worldasdfa sdf
+
+// submitting proposed changes
+
+Hello worldasdfa sdf
+  --> Hello, world!
+
+// 7/28/15 Tues.
+Huzzah! Folder structure change successfully implemented!
